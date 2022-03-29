@@ -1,8 +1,8 @@
 {
 "isBanner": false,
 "mainMenuAds": true,
-"levelselectionAds": true,
-"gamePlayAds": false,
+"levelselectionAds": false,
+"gamePlayAds": true,
     "gamesData": [
 		{
 	        "appVersion": "6",
