@@ -1,7 +1,7 @@
 {
 "isBanner": false,
 "mainMenuAds": true,
-"levelselectionAds": false,
+"levelselectionAds": true,
 "gamePlayAds": true,
     "gamesData": [
 		{
