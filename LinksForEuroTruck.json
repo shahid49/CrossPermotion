@@ -6,18 +6,18 @@
     "gamesData": [
 		{
 	        "appVersion": "6",
-            "appName": "RedRopeHero",
-            "appLink": "https://play.google.com/store/apps/details?id=com.mb.superhero.redhero.games"
-        },
-		{
-	        "appVersion": "6",
             "appName": "Tennis",
             "appLink": "https://play.google.com/store/apps/details?id=com.mb.classic.tennis.game"
         },
 		{
 	        "appVersion": "6",
-            "appName": "LongNeckWedding",
-            "appLink": "https://play.google.com/store/apps/details?id=com.innovativegamesstudio.beautysalon.fashion.makeupartist.designer.stylist"
+            "appName": "RedRopeHero",
+            "appLink": "https://play.google.com/store/apps/details?id=com.mb.superhero.redhero.games"
+        },
+		{
+	        "appVersion": "6",
+            "appName": "RedRopeHero",
+            "appLink": "https://play.google.com/store/apps/details?id=com.mb.superhero.redhero.games"
         },
 		{
 			"appVersion": "5",
